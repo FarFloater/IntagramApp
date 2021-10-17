@@ -21,7 +21,7 @@ THE TAKE PHOTO OPTION IS NOT OPERABLE AT THE MOMENT.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://imgur.com/uoSIDYh' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://imgur.com/uoSIDYh' width='250' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
